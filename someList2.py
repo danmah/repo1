@@ -32,7 +32,7 @@ values = ['1', '2', '-3', '-', '4', 'N/A', '5']
 
 # Utilisation de la fonction filer() qui passe à travers une lsite
 ivals = list(filter(is_int, values))
-print(ivals)
+# print(ivals)
 
 
 # Keeping the items for which satisfy a second list criteria
