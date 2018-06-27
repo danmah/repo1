@@ -77,7 +77,6 @@ print("More7:", more7)
 
 print(more7.count(True) > 4)
 
-# [False, False, True, False, False, True, True, False]
 myList2 = list(compress(addresses, more5))
 print(myList2)
 # ['5800 E 58TH', '4801 N BROADWAY', '1039 W GRANVILLE']
